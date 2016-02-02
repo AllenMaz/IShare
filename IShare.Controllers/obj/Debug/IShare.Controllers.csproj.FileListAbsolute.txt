@@ -1,0 +1,6 @@
+D:\VSWorkSpace2013\IShare.Web\IShare.Controllers\bin\Debug\IShare.Controllers.dll
+D:\VSWorkSpace2013\IShare.Web\IShare.Controllers\bin\Debug\IShare.Controllers.pdb
+D:\VSWorkSpace2013\IShare.Web\IShare.Controllers\bin\Debug\System.Web.Mvc.dll
+D:\VSWorkSpace2013\IShare.Web\IShare.Controllers\obj\Debug\IShare.Controllers.dll
+D:\VSWorkSpace2013\IShare.Web\IShare.Controllers\obj\Debug\IShare.Controllers.pdb
+D:\VSWorkSpace2013\IShare.Web\IShare.Controllers\obj\Debug\IShare.Controllers.csprojResolveAssemblyReference.cache

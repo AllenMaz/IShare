@@ -1,0 +1,5 @@
+D:\VSWorkSpace2013\IShare.Web\IShare.Models\bin\Debug\IShare.Models.dll
+D:\VSWorkSpace2013\IShare.Web\IShare.Models\bin\Debug\IShare.Models.pdb
+D:\VSWorkSpace2013\IShare.Web\IShare.Models\obj\Debug\IShare.Models.dll
+D:\VSWorkSpace2013\IShare.Web\IShare.Models\obj\Debug\IShare.Models.pdb
+D:\VSWorkSpace2013\IShare.Web\IShare.Models\obj\Debug\IShare.Models.csprojResolveAssemblyReference.cache

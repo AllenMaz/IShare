@@ -1,0 +1,36 @@
+﻿@{
+    ViewBag.Title = "DpControl";
+}
+<style>
+    .displayStyle{
+        display:none;
+    }
+
+</style>
+<script>
+    $(document).ready(function () {
+        $("#aCustomer").click(function () {
+            $("#divCustomer").toggle();
+        });
+        $("#aGroup").click(function () {
+            $("#divGroup").toggle();
+        });
+
+    });
+
+</script>
+<div class="jumbotron">
+    <p>
+        <a id="aCustomer" href="javsScript:void()" class="btn btn-primary btn-large">Customer Api</a>
+        <div id="divCustomer" class="displayStyle">
+            <a href="/DpControl/CustomerGetAll">http://DpControlApi/v1/Customers</a>
+        </div>
+    </p>
+    <p>
+        <a id="aGroup" href="javsScript:void()" class="btn btn-primary btn-large">Group Api</a>
+        <div id="divGroup" class="displayStyle">
+            <a href="javaScript:void()">http://DpControlApi/v1/Groups</a>
+        </div>
+    </p>
+</div>
+

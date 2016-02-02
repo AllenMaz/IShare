@@ -1,0 +1,9 @@
+D:\VSWorkSpace2013\IShare.Web\IShare.Utility\bin\Debug\IShare.Utility.dll
+D:\VSWorkSpace2013\IShare.Web\IShare.Utility\bin\Debug\IShare.Utility.pdb
+D:\VSWorkSpace2013\IShare.Web\IShare.Utility\obj\Debug\IShare.Utility.dll
+D:\VSWorkSpace2013\IShare.Web\IShare.Utility\obj\Debug\IShare.Utility.pdb
+D:\VSWorkSpace2013\IShare.Web\IShare.Utility\bin\Debug\IShare.Entities.dll
+D:\VSWorkSpace2013\IShare.Web\IShare.Utility\bin\Debug\IShare.Models.dll
+D:\VSWorkSpace2013\IShare.Web\IShare.Utility\bin\Debug\IShare.Entities.pdb
+D:\VSWorkSpace2013\IShare.Web\IShare.Utility\bin\Debug\IShare.Models.pdb
+D:\VSWorkSpace2013\IShare.Web\IShare.Utility\obj\Debug\IShare.Utility.csprojResolveAssemblyReference.cache

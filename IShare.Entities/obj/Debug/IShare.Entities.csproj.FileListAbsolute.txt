@@ -1,0 +1,5 @@
+D:\VSWorkSpace2013\IShare.Web\IShare.Entities\bin\Debug\IShare.Entities.dll
+D:\VSWorkSpace2013\IShare.Web\IShare.Entities\bin\Debug\IShare.Entities.pdb
+D:\VSWorkSpace2013\IShare.Web\IShare.Entities\obj\Debug\IShare.Entities.dll
+D:\VSWorkSpace2013\IShare.Web\IShare.Entities\obj\Debug\IShare.Entities.pdb
+D:\VSWorkSpace2013\IShare.Web\IShare.Entities\obj\Debug\IShare.Entities.csprojResolveAssemblyReference.cache

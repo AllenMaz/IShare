@@ -1,0 +1,16 @@
+D:\VSWorkSpace2013\IShare.Web\IShare.Service\bin\Debug\IShare.Service.dll
+D:\VSWorkSpace2013\IShare.Web\IShare.Service\bin\Debug\IShare.Service.pdb
+D:\VSWorkSpace2013\IShare.Web\IShare.Service\obj\Debug\IShare.Service.dll
+D:\VSWorkSpace2013\IShare.Web\IShare.Service\obj\Debug\IShare.Service.pdb
+D:\VSWorkSpace2013\IShare.Web\IShare.Service\bin\Debug\IShare.Entities.dll
+D:\VSWorkSpace2013\IShare.Web\IShare.Service\bin\Debug\IShare.Models.dll
+D:\VSWorkSpace2013\IShare.Web\IShare.Service\bin\Debug\IShare.Utility.dll
+D:\VSWorkSpace2013\IShare.Web\IShare.Service\bin\Debug\IShare.Entities.pdb
+D:\VSWorkSpace2013\IShare.Web\IShare.Service\bin\Debug\IShare.Models.pdb
+D:\VSWorkSpace2013\IShare.Web\IShare.Service\bin\Debug\IShare.Utility.pdb
+D:\VSWorkSpace2013\IShare.Web\IShare.Service\obj\Debug\IShare.Service.csprojResolveAssemblyReference.cache
+D:\VSWorkSpace2013\IShare.Web\IShare.Service\bin\Debug\IShare.Service.dll.config
+D:\VSWorkSpace2013\IShare.Web\IShare.Service\bin\Debug\EntityFramework.dll
+D:\VSWorkSpace2013\IShare.Web\IShare.Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\VSWorkSpace2013\IShare.Web\IShare.Service\bin\Debug\EntityFramework.xml
+D:\VSWorkSpace2013\IShare.Web\IShare.Service\bin\Debug\EntityFramework.SqlServer.xml
